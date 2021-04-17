@@ -124,9 +124,7 @@ body {
   color: #fff;
   line-height: 1.5em;
   font-size: 1em;
-  height: 300px;
-  padding-right: 1%;
-  padding-left: 1%;
+  padding: 1%;
 }
 
 .div-1, .div-2 {
